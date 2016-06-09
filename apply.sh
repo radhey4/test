@@ -7,3 +7,10 @@ else
   /usr/bin/logger -i "Puppet encountered an error; please run puppet manually" -t "puppet-apply"
   exit 1
 fi
+
+
+
+
+
+
+
